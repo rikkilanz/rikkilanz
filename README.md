@@ -7,6 +7,8 @@
 
 ### Tools
 - Languages: HTML, CSS, JS
+- Backend: PHP, MySQL
+- Frameworks: React JS, React Native
 
 ### Get in touch with me!
 - LinkedIn: [Rikki Soriano](https://www.linkedin.com/in/rikkisoriano/)
