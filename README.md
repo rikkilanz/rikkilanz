@@ -5,12 +5,12 @@
 - Honing my skills to fuse both design and development to bring out visions to life.
 - Based in Vancouver, BC
 
-### Tools
+### 🛠️ Tools
 - Languages: HTML, CSS, JS
 - Backend: PHP, MySQL
 - Frameworks: React JS, React Native
 
-### Get in touch with me!
+### ✉️ Get in touch with me!
 - LinkedIn: [Rikki Soriano](https://www.linkedin.com/in/rikkisoriano/)
 - Email: rikkilanz@gmail.com
 - Portfolio: www.rikkisoriano.com
