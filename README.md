@@ -8,7 +8,7 @@
 ### 🛠️ Tools
 - Languages: HTML, CSS, JS
 - Backend: PHP, MySQL, NoSQL
-- Frameworks: React JS, React Native, Next JS
+- Frameworks: React JS, React Native, Next JS, Tailwind CSS, TypeScript
 
 ### ✉️ Get in touch with me!
 - LinkedIn: [Rikki Soriano](https://www.linkedin.com/in/rikkisoriano/)
